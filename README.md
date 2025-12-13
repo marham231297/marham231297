@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/icon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
@@ -47,7 +47,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=marham231297&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marham231297&show_icons=true" />
 </p>
 
 <p>
@@ -56,4 +56,16 @@
 
 <p>
   <img src="https://streak-stats.demolab.com?user=marham231297" />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marham231297/marham231297/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marham231297/marham231297/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/marham231297/marham231297/output/github-snake.svg" />
+  </picture>
 </p>
